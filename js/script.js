@@ -32,7 +32,7 @@ resetCounter();
 // Decrement on click, Decrement faster on mouse hold, stop Decrementing on mouse release
 btnDecrement.addEventListener("click", numDecrease);
 btnDecrement.addEventListener("mousedown", function() {
-    interval = setInterval(numDecrease, 80);
+    interval = setInterval(numDecrease, 150);
 })
 btnDecrement.addEventListener("mouseup", function () {
     clearInterval(interval);
@@ -41,7 +41,7 @@ btnDecrement.addEventListener("mouseup", function () {
 // Increment on click, increment faster on mouse hold, stop incrementing on mouse release
 btnIncrement.addEventListener("click", numIncrease);
 btnIncrement.addEventListener("mousedown", function() {
-    interval = setInterval(numIncrease, 80);
+    interval = setInterval(numIncrease, 150);
 })
 btnIncrement.addEventListener("mouseup", function () {
     clearInterval(interval);
