@@ -6,7 +6,7 @@ Feel free to contribute to this project and/or distribute it with or without giv
 Suggestions and feedback are always welcomed, as well as critiques for code improvement or any sort of improvements, thank you!
 
 ### Credits:
-[Button Style]([https://github.com/15Dkatz/official_joke_api](https://tailwindcomponents.com/component/tailwind-css-button-hover-animation))  
-[SVGBackgrounds]([https://www.svgbackgrounds.com/elements/animated-svg-preloaders/](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)  
+[Button Style](https://tailwindcomponents.com/component/tailwind-css-button-hover-animation)  
+[SVGBackgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)  
 [TailwindCSS](https://tailwindcss.com/)
 
